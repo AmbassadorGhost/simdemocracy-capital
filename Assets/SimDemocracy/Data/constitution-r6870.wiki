@@ -1,0 +1,606 @@
+[[Category:Contents]] [[Category:Legislation]]
+== Preamble ==
+
+'''WHEREAS''' a constitution should exist to provide a framework for government upon which to build its specific workings,
+
+'''WHEREAS''' we must protect the rights of our citizens by codifying them into the highest order of law,
+
+'''HEREBY DECLARES''' that the Constitution, enacted with the will of the people and their representatives, shall serve as a foundation for the governance of SimDemocracy and to protect the rights and liberties of its citizens.
+
+== Part 1: The Legislature ==
+<ref name="ivy">[[The Ivy Cactus Quality of Life Amendment]]</ref>
+
+===Article 1: The Senate===
+<ref name="func_senate_amendment 2025">[[Functions of the Senate Amendment]]</ref>
+§1. The Senate shall be the primary legislative body of SimDemocracy and shall represent the interests of the people by wielding legislative authority.
+
+§2. The functions of the Senate of SimDemocracy <ref name="ivy" /> shall be the following, but are not limited to;
+:§2.1. Constituent function, to reform the Constitution through constitutional amendments.
+:§2.2. Legislative function, to prepare, reform and repeal laws and codes in all branches of legislation.
+:<ref name="random">[[Random Constitutional Fixes Amendment]] passed by the Senate on 10 October 2025, and confirmed by referendum on 13 October 2025.</ref>§2.3. Electoral function, to confirm the judges and justices of the judiciary and confirm the executive officers of the departments of the executive.
+:§2.4. Administrative function, to establish the organization and operation of the senate and its divisions. 
+
+§3. The Senate shall have the power to pass legislation with a simple majority vote.
+
+§4. The Senate holds the power of impeachment, being able to impeach any government official for improper conduct, as decided by the Senate, with a 2/3rds majority.
+:§4.1. If the vote is to impeach the President, the Vice President, a Senator, a Judge, a Justice, or a Supervisor the vote must also be confirmed by a two-thirds (⅔) majority in a public referendum.
+:§4.2. Senators may not vote on their own impeachment in the Senate vote.
+
+§5. All votes performed by the Senate must have a quorum in order for them to be valid.
+:§5.1. A quorum shall be defined as a simple majority of the members of the relevant deliberative body of the Senate (whether the full Senate or any officially established subdivision) casting a vote or formally declaring their intention to abstain.
+:§5.2. The absence of Senators from a vote shall not be taken into consideration when deciding the results of that vote except when determining whether there is a quorum, or when establishing a vote’s duration according to further legislation.
+:§5.3. Votes that do not achieve a quorum shall be repeated until a quorum is reached, except for any cases specified by further legislation.
+:§5.4. Further legislation may determine penalties and/or sanctions for Senators intentionally blocking a quorum from being reached.”
+
+§6. In the event of a tied vote in the Senate the Vice President shall have the power to cast a tie breaking vote.
+
+§7. Senators may not concurrently hold any other high office in other branches of the state.
+:§7.1. These high offices are the following: President, Vice President, Executive Officer, Judge and Justice.<ref name="ivy" />
+
+=== Article 2: Speaker of the Senate ===
+§1. The Senate shall elect one of its members to serve as Speaker of the Senate.
+
+§2. The Speaker of the Senate shall be responsible for scheduling and holding Senate votes.
+:§2.1. The Speaker of the Senate may not delay votes on confirmation and impeachment for more than twenty-four (24) hours.
+:§2.2. The Senate may pass a discharge petition with a simple majority to force a vote on legislation.
+:<ref name="ivy" />§2.3. If there is no Speaker of the Senate, due to impeachment, resignation, or otherwise, the line of succession outlined in §6 of this article shall determine who assumes the Speaker’s duties until a new one is elected.
+::<ref name="streamline">[https://docs.google.com/document/d/1Q-hzjtDvPiQN79qlqwZLriX5-dJpAJ4WFjZve0ktKxc/edit?sharingaction=ownershiptransfer&tab=t.0 Senate Functions Streamlining Amendment 2025] ratified on 23 November 2025.</ref>§2.3.1. The Vice President shall conduct an election for the new Speaker. If there is no VP, then the Speaker Pro Tempore shall conduct said election.
+
+§3. The Senate may vote to impeach the Speaker of the Senate with a simple majority. The Vice President shall be responsible for scheduling and overseeing the vote. <ref name="func_senate_amendment 2025" />
+
+<ref name="streamline" />§4. The inaugural session of the Senate shall be presided over by the Vice President. If the VP is vacant, the Speaker Pro Tempore shall preside over the inaugural session.
+
+§5. The Speaker of the Senate shall appoint any Senator to serve as Deputy Speaker of the Senate immediately after the election of the Speaker.<ref name="func_senate_amendment 2025" />
+
+§6. If the Speaker of the Senate is absent, incapacitated, or otherwise unable to fulfill their duties, authority shall pass to the next available official in the following order:
+:§6.1. The Deputy Speaker of the Senate,
+:§6.2. Speaker Pro Tempore,
+::<ref name="streamline" />§6.2.1. Speaker Pro Tempore shall be defined as the first among the current members of the Senate, in order of when they were elected from first to last.
+:<ref name="func_senate_amendment 2025" />§6.3. The Vice President.
+:<ref name="streamline" />§6.4. The current members of the Senate, in order of when they were elected from second to last.
+
+=== Article 3: Senate elections ===
+§1. The Senate shall be elected in its entirety every two (2) weeks, and elections shall be available for twenty-four (24) hours.
+:§1.1. The candidates who wish to run shall come forward via a Call for Candidates post
+:§1.2. The call for Candidates shall last 24 hours
+:§1.3. There shall be a 48-hour period between the conclusion of the Call for Candidates and the start of the election
+
+§2. The Senate shall be elected using the voting method described in the Appendix §1.
+
+§3. The number of seats in the Senate shall be determined after the conclusion of a Senatorial election in accordance with the Appendix §3 and its subsection.<ref name="BEA">Amended by the [[By-Elections Amendment (BEA)]]</ref>
+
+<ref name="countback">[[Proportional Countbacks Amendment]] ratified 20 July 2025.</ref>§4. In the event that a Senate seat becomes vacant, the countback method specified in the Appendix §2 shall be used to fill the seat for the remainder of the term, barring resignation or impeachment.
+:§4.1. The Supervisor of Elections, in conjunction with the Electoral Commission, shall perform the countback.
+:§4.2. If multiple countbacks are required, they must be performed in the order that the vacancies arose in.
+:§4.3. In order to be an eligible candidate for a countback, a candidate must have run in the most recent Senate election and must not have previously been a Senator during the current Senate term.
+:§4.4. If no candidates are eligible, the President may appoint an interim Senator for the remainder of the term, barring resignation or impeachment, with the approval of the Senate.
+:<ref name="mess">[[Our Constitution is a Mess Amendment]] passed on 9 August 2026 and ratified on 17 August 2026.</ref>§4.5. If all Senate seats are vacant and there are no eligible candidates, the President’s Interim Senator pick shall not need Senate approval. 
+
+===Article 4: Oversight===
+§1. As part of its political and judicial functions, the Senate shall have the authority to conduct oversight of governmental bodies and individuals. It shall also have the power to subpoena current and former government officials, as well as specific government departments, and any other part of the government of SimDemocracy that the Senate deems fit.<ref name="small">[https://docs.google.com/document/d/1fVsSDWe2qJrbe-9TaMyYN7Sn4cbBE4w3IFcOzKh4NKc/edit?tab=t.0#heading=h.hlienrlv1c1e Small Oversight Change Amendment 2026] ratified 5 January 2026.</ref>
+
+§2. In the course of conducting oversight, the Senate shall have the power to appoint a special counsel to process charges against any senior State official and present them before the Senate.
+
+<ref name="indep-agency">Amended by the [[Constitutional Codification of Independent Agencies Act]]</ref>§3. The Senate shall reserve the ability to create agencies that are independent of the executive’s authority when doing so is expedient<ref name=randomfix2 /> to upholding constitutional rights, government accountability or the preservation of essential government functions and records.
+<ref name="diarrhea">[https://docs.google.com/document/d/1BcTmh941-qCyHlkepCjkYiNe41js2CT5n3v-TYh2Ixc/edit?tab=t.0 Diabolical Improvement and Amendment of Regulatory Review and Hearing Enhancement Act 2026] ratified 25 January 2026.</ref>
+
+== Part 2: The Executive ==
+===Article 5: The President===
+§1. The President shall be the primary executive body of SimDemocracy and shall represent the interests of the people by wielding executive authority.
+
+§2. The President shall have the authority to veto any votes passed by the Senate, with the exception of confirmations, impeachments, internal motions, and constitutional amendments, and veto overrides, within three (3) days of the passage of the vote.<ref name="veteno">[https://docs.google.com/document/d/1ZoubVrFnrIrytPi2Q_DvfaI_HSWpufdEoxXSWU_Cv9s/edit?tab=t.0#heading=h.bcj6d1azubav Veto, or Vete-No? Amendment 2026] ratified 18 January 2026.</ref><ref name="vetooverrideprotection">[https://docs.google.com/document/d/1SSbtFKWdc2JcY9IvOJDsVdamfBiuORhYh5Z7pgcUQ2s/edit?tab=t.0 Override Protection Amendment] passed by the Senate on the 1st April 2026, ratified 03 April 2026. See also [[Ref re Presidential Vetoes of Veto Overrides 2026 SDSC 11|''Ref re Presidential Vetoes of Veto Overrides'' [2026] SDSC 11]]</ref><ref name="randomfix2" />
+
+:§2.1. The Senate may override a veto with a two-thirds (⅔) majority.
+
+§3. The President shall have primary authority over SimDemocracy’s foreign affairs and shall have the power to negotiate treaties and agreements on behalf of the State of SimDemocracy. 
+
+:<ref name="treaties2025">[https://docs.google.com/document/d/1k37kJ_0JwDgK1zLYs-88aReKITe8JN2Wyo-UrxyjKkA/edit?tab=t.0 International Treaties Amendment 2025] passed by the Senate on 3 November 2025, and ratified by public referendum on 9 November 2025.</ref>§3.1. Treaties, the ratification of which was consented to by the Senate, shall constitute a part of the legal order.
+:<ref name="treaties2025" />§3.2. The Senate must, for them to be ratified, consent to treaties
+::(a) that regulate the rights and obligations of persons;
+::(b) concerning alliances, peace, as well as other such major political concepts;
+::(c) establishing or withdrawing membership of SimDemocracy in an international organization;
+::(d) on other matters, the regulation of which is reserved strictly for legislative Acts.
+:<ref name="treaties2025" />§3.3. SimDemocracy may, by treaty ratified with the consent of the Senate, establish or otherwise join an international organization tasked with the regulation of financial and monetary policy, onto which it may delegate some of its powers insofar as they pertain to these areas.
+
+<ref name="terrhier">[[Presidential Power in Maintaining Order Under Territorial Hierarchies Amendment]] Moved to Section 3 since the section mentioned in the text was in error with approval from both the Original Author of the Amendment and the Chief Archivist.</ref> §4. The President shall have primary authority over the organization and management of the core territories of SimDemocracy, in the absence of specific legislation otherwise.
+
+<ref name="ActPrez">Amended by [[The Acting President Amendment 2025]], ratified on 17 November 2025.</ref>§5. Should the President become incapacitated - due to inactivity, resignation, or otherwise — they shall be replaced as described in Part 9, §7–9 of the Constitution<ref name="evenworse">A numerical reference error was caused by [https://docs.google.com/document/d/15q5cUNqEA1TmVo-QUTpsLqkFHIxlkJaiGlZtGqsKLMU/edit?tab=t.0 The Even Better Election Terminology To Ensure Ratification (Even BETTER) Amendment 2026] ratified 5 January 2026, which deleted Part 9, §5 without renumbering Article 5§5, but this was not caught until [2026] SDSC 29 in September 2026.</ref><ref name="evenbetter" />.
+
+:§5.1. Should the President’s incapacity be temporary the acting official shall not hold the office of President but instead the office of “Acting President”, which shall retain all of the responsibilities and powers associated with the presidency other than the official title and the power to appoint a new Vice President, should that role also be vacated.
+
+::§5.1.1 A person who assumes the duties of Acting President is automatically placed on temporary suspension from the powers and duties of their other office for the duration of the acting service. They may not exercise any authority, powers, prerogatives, or vote of that office while Acting President.
+
+:::§5.1.1.1. Suspension is defined as a temporary cessation of the powers and duties of an office without creating a vacancy and without terminating the incumbent’s title to the office.
+
+:::§5.1.1.2. The incumbent retains the title to the office and remains the lawful office-holder.
+
+:::§5.1.1.3. The incumbent may not exercise any authority, powers, prerogatives, or vote of the suspended office while suspended.
+
+:::§5.1.1.4. The term of office continues to run, and seniority accrues uninterrupted as if continuously holding the office.
+
+:::§5.1.1.5. Compensation and benefits of the office continue unless a statute expressly provides otherwise.
+
+:::§5.1.1.6. For any multi-member body (e.g. the Supreme Court or the Senate), a suspended member is treated as absent for quorum and voting of that body for the duration of the suspension; the seat remains filled.
+
+:::§5.1.1.7. Suspension alone does not constitute removal, discipline, or a finding of misconduct, and may not be used as a ground for disqualification from future service.
+
+:§5.2. Upon the President’s return to duty, the Acting President immediately ceases acting and is reinstated to their suspended office with all rights, status, and seniority intact as if continuously holding that office during the suspension.
+
+§6. The President may not concurrently be Vice President, Senator, Judge or Justice.
+
+§7. The President shall be elected every two (2) weeks using the voting method described in Appendix §4, and elections shall be available for twenty-four (24) hours.
+:§7.1. The candidates who wish to run shall come forward via a Call for Candidates post.
+:§7.2. The call for Candidates shall last 24 hours.
+:§7.3. There shall be a 48-hour period between the conclusion of the Call for Candidates and the start of the election.
+
+===Article 6: The Vice President===
+§1. The Vice President shall be the secondary executive body of SimDemocracy and shall represent the interests of the people by wielding executive authority second only to the President.<ref name="inrevp">See also [[In re Vice President removing executive power from Secretary of State 2026 SDSC 5|''In re Vice President removing executive power from Secretary of State'' [2026] SDSC 5]] regarding the role of the Vice President.</ref>
+
+§2. The President shall choose a Vice President to serve for the former’s term prior to the election.
+:§2.1. If the President is without a Vice President for any reason during their term they must appoint a Vice President, subject to a simple majority in a public referendum.
+
+§3. The Vice President may occupy an additional Executive Office, unless otherwise specified in further legislation.
+
+§4. The Vice President may not concurrently be President, Senator, Judge or Justice.
+
+===Article 7: The Cabinet===
+<ref name ="cabinet">[[Creating Actual Bureaucracy In National Executive Theory Amendment]]</ref>§1. The Cabinet shall serve as the official advisory body to the President and be composed of the Vice President, all Executive Officers, any position specified by legislation, and other advisors as the President deems fit.
+:§1.1. Advisors need not necessarily be members of the executive, and a person’s position in the cabinet shall not be construed to place them under the authority of the President.
+
+§2. Executive Officers shall be the heads of executive bodies, as created by legislation or by decree of the President. They shall wield executive authority over the department they lead, behind only the authority of the President and the Vice-President.
+
+§3. Members of the executive may issue orders which those with lower authority are compelled to obey. No executive official may issue an order contradicting an order by a higher authority, and no executive official may issue an order to an official they do not wield authority over.
+:§3.1. Written orders from a member of the executive to their subordinates shall be known as “executive orders”, and are binding on said subordinates until stricken by an official of equal or higher authority, regardless of whether the employee who penned them was replaced.
+:§3.2. No person shall be dismissed or otherwise reprimanded solely for disobeying, in good faith, an order they believed to be illegal.
+:§3.3. Section 3.2. shall not be construed to deny the Senate the ability to impeach officials at its own discretion.
+
+§4. Members of the executive shall reserve the ability to delegate their authority to those serving under them, in whole or in part, and to the extent that they seem fit.
+:§4.1. When authority is delegated, those who it was delegated to shall be considered to wield any amount of authority up-to but not exceeding that of the official who delegated, at the discretion of said official.
+:§4.2. The power of delegation shall allow executive officials to create new executive bodies and positions with authority, ability, and discretion up-to but not exceeding that of the official who created said body.
+
+§5. Executive Officers may not simultaneously be President, Senator, Judge or Justice.
+
+== Part 3: The Judiciary ==
+=== Article 9: The Courts ===
+<ref name="tnaj">[["Totally Not A Judicial Re*orm Bill Act Amendment Constitutional" Constitutional Amendment Bill]]</ref>§1. The Courts, consisting of the Supreme Court and such Inferior Courts as provided for by law, shall be the primary judicial body of SimDemocracy and shall represent the interests of the people by wielding judicial authority.
+
+§2. Judges and Justices shall be appointed by the President, subject to a two-thirds (⅔) majority confirmation vote in the Senate.
+
+§3. Judges and Justices shall serve indefinitely until resignation or impeachment.
+
+§4. Judges and Justices may not concurrently be President, Vice President, Senator, Executive Officer or any other position that would result in a frequent conflict of interest.
+
+=== Article 10: Inferior Courts ===
+<ref name="tnaj"/>§1. The Inferior Courts shall possess original and appellate jurisdiction of all cases not originating solely within a colony of SimDemocracy.
+
+<ref name="ivy">[[The Ivy Cactus Quality of Life Amendment]]</ref>§2. The first round of a case shall be heard by a judge, <ref name="jjj"/> or a panel of judges, assigned through a process absent of their input, as decided by further legislation. Inactive or otherwise incapacitated judges should be excluded from said process.
+
+:§2.1. Judges must recuse themselves in the event they may have, or may appear to have, a conflict of interest in the case except in the case where no other Judge can be provided.
+
+:§2.2. In the event that a Judge refuses to recuse themselves a separate Judge shall rule whether they have a conflict of interest and to forcefully recuse them or not.
+
+<ref name="tnaj"/>§3. Judges of the Inferior Courts shall interpret and apply the laws of SimDemocracy.
+
+:§3.1. In cases not covered by law, Judges shall use their best professional judgment.
+
+:§3.2. Judges must provide the legal reasoning behind their judgements, citing relevant legislation and precedent.
+
+<ref name="writs"/>§4. Judges shall have the power, upon being petitioned by any citizen of SimDemocracy, throughout the territories in relation to which they exercise jurisdiction, to issue to any person or authority, including in appropriate cases any government, within those territories, directions, orders, or writs, including writs in the nature of habeas corpus, for the enforcement of any of the rights conferred by Part 6 of the SimDemocracy Constitution.
+
+::Explanation.—For the purposes of this clause:
+
+::(a) A writ in the nature of habeas corpus shall mean a command issued for the release of any citizen alleged to be detained, muted, banned, or otherwise restrained in contravention of the rights guaranteed under Part 6.
+
+::(b) This power shall be confined exclusively to the enforcement of the Rights guaranteed under Part 6 of the Constitution of SimDemocracy.
+
+=== Article 11: Supreme Court ===
+§1. The Supreme Court, composed of five (5) Justices, shall be the highest court and the final court of appeals of SimDemocracy.<ref name="scexpansion5"> [[Supreme Court Expansion]] </ref>
+
+:§1.1. If the Supreme Court has less than 3 members for a case, due to recusal, vacancy, or otherwise, the Chief Justice may select an Inferior Courts Judge to serve on the court as Acting Justice for the duration of the case.<ref name="kids">Added by the [[Give the Kids a Shot Amendment 2025]], ratified 20 April 2025.</ref><ref name="silly-semantics-settling">Modified by the [[Silly Semantics Settling Amendment 2026]] passed on 30 August 2026 and ratified on 6 September 2026.</ref>
+
+§2. The Supreme Court shall elect one of its own members to serve as Chief Justice.
+
+§3. The Supreme Court as represented by the Chief Justice may grant or decline petitions for but not limited to any of the following:
+
+:§3.1. Judicial reviews, which allow the Supreme Court to invalidate, reverse, and issue judicial remedies for any actions, omissions, orders, or laws which are incompatible with a higher authority or;
+
+:§3.2. Appeals of any decision made by lower courts, which allow the Supreme Court to force a retrial, overturn an Inferior Courts decision, or amend an Inferior Courts decision or;<ref name="silly-semantics-settling" />
+
+:§3.3. Reference cases, which allow the Supreme Court to issue a legally binding advisory opinion.
+
+:<ref name="jjj">[https://docs.google.com/document/d/1aq0BRpggE3puNVfuXOzn_KHr20zBHz1y8-rhgQLgX-I/edit?tab=t.0 Judging Judges Judicially Amendment 2025] (JJJ) passed by the Senate on 3 December 2025 and ratified on 5 December 2025.</ref>§3.4. This section shall not be construed to limit the issuance of the listed petitions to the Supreme Court.
+
+§4. Majority opinions, judicial opinions supported by a majority of the Justices, shall be legally binding on inferior courts as precedent.
+
+§5. The Supreme Court shall have the power to determine its own procedures to meet its constitutional and legal duties.
+:<ref name="scat">[https://docs.google.com/document/d/1pqpl4xpAIyIx9j8P96WAEvghwD8MX-d3DNozTx7qxkA/edit?tab=t.0 Supreme Court (Accountability and Transparency) Act 2025]</ref>§5.1. Provided that the Senate may by law require –
+::(a) That matters before the Court be heard and disposed of within a certain time-frame as specified by law;
+::(b) That opinions issued by the court are sufficiently reasoned, based on standards prescribed by law; and,
+::(c) That the Court makes certain information available to the Senate or the Public, according to law.
+::§5.1.1. These laws may be enforced by way of criminal sanction against each individual Justice of the Supreme Court, according to law.
+:§5.2. Nothing in this Constitution or §5. shall be taken to permit the quashing, invalidation or voiding of §5.1, §5.1.1 and §5.2 through judicial decision, and, in particular, nothing in Article 29 shall be taken to invalidate §5.1 and §5.2, or any law passed to bring into effect the provisions of §5.1, §5.1.1 or §5.2.
+
+
+<ref name="writs">[[Writs and Judicial Powers]]</ref>§6. The Supreme Court shall have the power to issue to any person or authority, including the Government, directions, orders, or writs, including but not limited to writs in the nature of habeas corpus, mandamus, prohibition, quo warranto, and certiorari, whichever may be appropriate, for the enforcement of any of the rights conferred by or under this Constitution, or for any other purpose.
+
+:Explanation.—For the purposes of this clause:
+
+:(a) A writ in the nature of habeas corpus shall mean a command issued for the release of any citizen alleged to be detained, muted, banned, or otherwise restrained in contravention of the rights guaranteed under Part 6.
+
+:(b) Writ in the nature of mandamus shall mean a direction to any authority, officer, or person requiring the performance of a duty which is constitutional, statutory, or otherwise legally enforceable.
+
+:(c) Writ in the nature of prohibition shall mean an order to a judicial, quasi-judicial, or administrative authority restraining it from continuing proceedings in excess of its jurisdiction or in contravention of law.
+
+:(d) Writ in the nature of quo warranto shall mean a command calling upon a person to show by what authority they claim to hold a public office, and may result in the ousting of such person if the office is held without lawful entitlement.
+
+:(e) Writ in the nature of certiorari shall mean an order quashing any decision, order, or proceeding of a judicial or quasi-judicial authority found to be without or in excess of jurisdiction or in violation of the principles of natural justice.
+
+:(f) The power under this Article shall be available not only for the enforcement of fundamental rights conferred by Part 6, but also for the enforcement of any other legal right, and for any other purpose that the Court may deem just and proper.
+
+==Part 4: The Territories==
+<ref name="simperialism">[[Simperialism Amendment]]</ref>
+===Article 12: Platforms and Obligations===
+
+§1. A platform shall be a website, server, forum, or other piece of software on which SimDemocracy holds an official presence.
+
+§2. SimDemocracy holds an obligation to ensure compliance with the rules of the platforms it operates on, to the extent which the platform expects communities to enforce said rules.
+
+:§2.1. If SimDemocracy’s continued existence on a platform is dependent on continued assistance or funding from a third-party, SimDemocracy must negotiate an agreement with said party where it clarifies the limitations or expectations for SimDemocracy to operate on said platform.
+
+::§2.1.1. Constitutionally defined supervisors shall not be considered third-parties for the purposes of this article.
+
+§3. A platform where members of SimDemocracy communicate or interact with each other in an organized way is known as a territory.
+
+§4. Platforms where SimDemocracy maintains a presence simply to advertise or record-keep shall not be considered territories, and are not bound by the provisions for territories hereafter.
+
+§5. The Senate of SimDemocracy may declare a platform a territory, or revoke a platform's territorial status, via a two-thirds (⅔) majority.
+
+:§5.1. Votes to classify or declassify a platform as a territory may be challenged in the Supreme Court of SimDemocracy if they do not comply with §3. and §4. of this Article.
+
+===Article 13: Core Territories===
+<ref name="Border">Amended by [[Border Reform]] on 17 November 2025</ref>§1. Territories that have their democratic-continuity guaranteed by constitutionally defined Supervisors are to be considered “core territories” of SimDemocracy.
+
+:§1.1. No platform dependent on a third-party, as described in Article 12 §2.1., may be considered a core territory of SimDemocracy.
+
+§2. All provisions of this document shall apply in full capacity in core territories of SimDemocracy.
+
+:§2.1. No person shall have their liberty to communicate in any core territory restricted for a conviction based solely upon a colonial law.
+
+§3. One need only maintain a presence in any given core territory to be considered a citizen of SimDemocracy.
+
+§4. No citizen may be discriminated against solely because of the core territory they choose to operate on.
+
+:§4.1. This section shall not be construed to deny the state the ability to base hiring decisions upon the ability of a citizen to do the work the position requires, due to lack of presence on a certain core territory or otherwise.
+
+§5. The confinement of accounts joining the Core Territories and The Colonies to a specific area for them and the implementation of an application for accounts joining the Core Territories and The Colonies to enter the Core Territories and The Colonies, which shall be managed and operated by the competent authorities as prescribed by law, shall be lawful and exempt from Part 6 and Article 29 [of the] Constitution.
+
+:§5.1. In exercising their powers under §5, the competent authority may be given the power to accept or reject accounts attempting to join, though they must act in a lawful manner.
+
+===Article 14: The Colonies===
+
+§1. SimDemocracy may maintain "colonies" which are territories other than the core territories.
+
+§2. Citizens of SimDemocracy may retain membership in any number of distinct colonies.
+
+§3. The Senate of SimDemocracy may grant colonies autonomy of governance, including but not limited to:
+:§3.1. The ability to create their own laws, applying only within the colony,    
+::§3.1.1. The Senate of Simdemocracy, at its own discretion, may put additional restrictions on the legislative authority of a colony.
+:§3.2. The ability to police themselves and enforce their own laws,
+:§3.3. The ability to operate their own court,
+::§3.3.1. If a colony has its own inferior courts, the inferior courts of the core territories shall not have jurisdiction over the colony, unless otherwise specified.
+::§3.3.2. The Supreme Court of SimDemocracy retains final appellate jurisdiction over decisions made by colonial courts.
+:§3.4. The ability to edit or nullify statutes passed by the Senate of Simdemocracy.
+::§3.4.1. The Senate of SimDemocracy, at its own discretion, may list statutes that a colony may alter and/or which ones it cannot.  
+
+§4. Colonies, in order to act autonomously, must pass a charter agreed to by a simple majority vote of both the Senate of SimDemocracy and a referendum of the colony’s membership.<ref name="simple-charters">[[Charters Should Be Simple Amendment 2026]] passed on 19 August 2026 and ratified through referendum on 23 August 2026</ref>
+:§4.1. A charter must outline the Colony’s structure of government; and
+:§4.2. How the colony plans to use the powers granted to it by the Senate of SimDemocracy.
+
+§5. Colonies must guarantee the basic rights of their members, as established in the Bill of Rights outlined in this document. Where strictly necessary, they may adapt the Bill of Rights to comply with platform restrictions established via Article 12 §2. and its subsections.
+:§5.1. A colony’s charter must be democratic in the system of governance it stipulates.
+
+§6. A colony’s charter may only be revoked via a two-thirds (⅔) majority of the Senate of SimDemocracy.
+
+== Part 5: Supervisors ==
+=== Article 15: The Supervisors ===
+§1. The Reddit Supervisor is to guarantee the subreddit’s democratic continuity by holding full head moderator power in r/SimDemocracy.
+
+:<ref name = "redhot">[https://docs.google.com/document/d/19cE1D_SZKdNtf90GIo_CfmnhbR5yUucWiyN8Dtd5xYA/edit?tab=t.0 Reddit Supervisor Hotfix] passed referendum on 30 June 2025.</ref>§1.1. The Reddit Supervisor may not use this power except to guarantee the Reddit's democratic continuity, enforce the Reddit Terms of Service, or grant/revoke moderation status and perform other minutiae in accordance with legislation and executive orders, except in exceptional circumstances.
+
+§2. The Discord Supervisor is to guarantee the Discord’s democratic continuity by being its owner.
+
+:§2.1. The Discord Supervisor may not use this power except to guarantee the Discord's democratic continuity, enforce the Discord Terms of Service, or grant/revoke moderation status and perform other minutiae in accordance with legislation and executive orders, except in exceptional circumstances.
+
+§3. The Supervisor of Elections is to guarantee SimDemocracy's democratic continuity by administering its elections and referendums.
+<ref name="vrpoia">[[Voter Registry (Protection of Independence) Act 2026]] passed on 12 September 2026 and ratified on 13 September 2026.</ref>
+:§3.1. The Supervisor of Elections may only use this power to hold fair and untampered elections and referendums, in full accordance with the [[Voting (Elections and Ballots) Act 2026]].
+:§3.2. The [[Voting (Registration) Act 2026]] and [[Voting (Elections and Ballots) Act 2026]] shall operate as if they were part of the Constitution, but shall not be inserted into the text of the Constitution. 
+::§3.2.1. To avoid doubt –
+:::(a) amending the aforementioned Acts shall require the same voting standards as amending any other part of this Constitution; and,
+:::(b) the aforementioned Acts shall be taken to be on the same footing as other constitutional texts, and shall be able to, for instance, override parts of constitutional text when explicitly stated.
+
+§4. The Registration Officer is to guarantee SimDemocracy’s democratic continuity by administering the registration of voters.<ref name="vrpoia" />
+:§4.1. The Registration Officer may only use this power to hold fair and untampered elections and referendums, in full accordance with the [[Voting (Registration) Act 2026]].
+
+<ref name="supervp">[https://docs.google.com/document/d/1xo5dfqoofkux8LIQgTVz7WxiwVyZwRFpoaq_gy0nCJ4/edit?tab=t.0 "Constitutional Amendment"] passed on 17 June 2025 and ratified on 22 June 2025.</ref>
+§5. Supervisors may not be President, Vice President, an executive officer, or a Senator; nor may they have any political affiliation.
+
+§6. Supervisors will be chosen by the President and confirmed by a two-thirds (⅔) majority in the Senate followed by a two-thirds (⅔) majority in a public referendum.
+
+§7. Supervisors shall serve indefinitely until resignation or impeachment.
+
+§8. If a Supervisor does not step down swiftly and gracefully after their removal, they are to be declared a tyrant. And when tyranny becomes law, rebellion becomes duty. All laws against rebellion are nullified within a territory while a tyrant is in control of said territory, and a backup of said territory is to be created if one isn’t already present. Any and all actions taken by a tyrant are illegal.<ref name="ivy">[[The Ivy Cactus Quality of Life Amendment]]</ref>
+
+§9. If for any reason there is no Supervisor in any core territory of SimDemocracy, control over said territory must be handed to the President until the appointment and confirmation of a new Supervisor.<ref name="ivy">[[The Ivy Cactus Quality of Life Amendment]]</ref>
+
+§10. No citizen may simultaneously hold multiple Supervisor positions.
+<ref name ="indep-agency" /><ref name="mess" />
+
+== Part 6: The Bill of Rights ==
+=== Article 17: Equality before the law ===
+§1. Every person shall be equal before the law and be entitled to equal protection of the law.
+
+§2. Equal protection of the law, and equality of rights under the law, shall not be restricted or abridged on the basis of protected characteristics.
+
+§3. Protected characteristics shall include, race, religion, sexual orientation, gender identity, national or social origin, ethnicity, age, disability, and political beliefs.
+
+=== Article 18: Freedom of expression ===
+§1. Every person shall have the right to freedom of expression, which shall include the right to freedom of speech, freedom of the press, freedom of peaceful assembly, freedom of association, freedom of faith and conscience, freedom of peacefully exercising religious beliefs, and the right to petition for redress of grievances, but the Legislature may impose such restrictions on the freedom of association as may be necessary or expedient in the interest of the security of SimDemocracy and its citizens.<ref name = "TCCA">Amended by the [[Terrorist Connected Accounts Act]]</ref>
+
+§2. The state shall be prohibited from passing a law respecting an establishment of religion.
+
+§3. No criminal conviction or impeachment shall be made purely on the basis of speech and the exercising of free speech, barring cases where the exercising of such free speech violates or attempts to violate the constitutional rights of other citizens.
+
+:§3.1. The existence of offense, or other distress, of another person caused by the exercising of free speech shall not be construed as a violation of constitutional rights of that person, unless such distress is serious, caused in an intentional and malevolent manner, and would also have affected the safety or well-being of a reasonable person.
+
+§4. Every person shall have the right to express their opinion and participate in the political process through voting in free and fair elections.
+
+:§4.1. Every person has the right to secrecy of their unique legitimate ballot.
+
+=== Article 19: Right to privacy ===
+§1. Every person shall have the right to personal privacy.
+
+§2. Only public bodies and organizations prescribed by law may collect, retain, process, and disclose personal data with the specific and unambiguous informed consent of the individual, which for non anonymized personal data may be withdrawn at any time, after which all personal data shall be destroyed.
+
+:§2.1. Personal data can not be sold to third parties or used for marketing purposes.
+
+§3. Personal data shall include information which can identify a person’s real life identity directly, information which can make a person’s real life identity identifiable and information that can lead to indirect identification of a person’s real life identity in combination with other information.
+
+=== Article 20: Right to whistleblow ===
+§1. Every person shall have the right to whistleblow, and they may not be prosecuted, impeached, or otherwise punished for their whistleblowing.
+
+§2. Whistleblowing shall be the public disclosure or release of classified or private information in the public interest.
+
+§3. Whistleblowers shall be prohibited from disclosing personal data without consent.
+
+=== Article 21: Right to a fair hearing ===
+§1. Every person shall be entitled to a fair hearing by a competent court in accordance with law.
+
+§2. Every person charged with a criminal offense shall be presumed innocent until proven guilty.
+
+§3. Every person shall have the right to defend themselves in person, and every person shall have the right to legal counsel for their defense.
+
+§4. Every person shall have the right to adequate time for the preparation of their defense, and the right to private correspondence and communications with legal counsel.
+
+§5. No person shall be guilty of a criminal offense on account of any act or omission which did not constitute a criminal offense at the time when it was committed, nor shall a heavier penalty be imposed than the one that was applicable at the time when the criminal offense was committed.
+
+§6. No person or legal entity may be tried again on the same or similar charges and on the same facts following a valid acquittal or conviction.<ref name="mess" />
+
+<ref>[[Right Against Self Incrimination Amendment]]</ref>§7. No person shall be required to testify to anything which may expose them to criminal liability.
+
+:§7.1. To avoid doubt, this section does not prevent the state from compelling a person to turn over documents, logs, or other material that may be incriminating, if the state has reasonable cause to believe that such incriminating material exists.
+
+=== Article 22: Liberty and security of the person ===
+§1. Every person shall have the right to liberty and security of the person.
+
+§2. No person shall be deprived of their liberty unless the following due process is observed:
+
+:§2.1. The lawful suppression, detention, muting, fine, or ban of a person after conviction by, or on order of a competent court through the authorities as prescribed by law.
+
+:§2.2. The lawful fine or muting after issuance of a lawful ticket or penalty notice by a competent authority which summarily sanctions a person for a minor criminal offense.
+
+::§2.2.1. The issuing of such a ticket or penalty notice may be refused by the person, in which case charges may be brought against them.
+
+:<ref name="geetsa">[[Guaranteeing Equal Enforcement of the Terms of Service Act 2025]]</ref>§2.3. Under exceptional circumstances affecting public safety, a pre-emptive mute or ban may be applied before a trial.
+
+:<ref name="poop">[[Protecting Our Online Peace Amendment]]</ref>§2.4. The lawful summary suppression, arrest, detention, muting, or ban of a person for the purposes of enforcing egregious violations of the Reddit and Discord Terms of Service and other constitutional obligations of the state.
+
+::§2.4.1. The following are examples of cases where a violation of the Terms of Service is egregious:
+
+:::(a) The violation was repeated multiple times in a short amount of time (including mass spamming or pinging);
+
+:::(b) The violation was highly intense; or,
+
+:::(c) The violation contained serious doxxing, NSFW, or gore.
+
+::§2.4.2. Within a reasonable time after the issuing of such a suppression, a competent court must certify that the person committed egregious violations of the TOS, and issue a sentence for that said violation.
+
+::§2.4.3. Further legislation may determine the procedures to be followed for the purposes of this subsection.
+
+:<ref name="arrests">[https://docs.google.com/document/d/1ImwEcvXMs24Mtrf3to_ynfcbT-2_6f1XMNYQmtlW_AI/edit?tab=t.0 Arrests Amendment] passed by the Senate on 30 October 2025 and ratified by public referendum on 3 November 2025.</ref>§2.5. The lawful suppression, detention, mute, or arrest prior to a criminal trial before a competent court.
+
+:<ref name="twwwa">[[Tricky Wicky and Warranted Warrants Amendment]]</ref>§2.6. The lawful suppression, detention, mute, or arrest by a designated Security Bot as prescribed by law.
+
+:<ref name="betterseo">[https://docs.google.com/document/d/1UO1wC0mPhMXh737i-pMi3qSHfFFHekf8Ochy8h_e39o/edit Better SEOs Amendment], passed and signed on June 25th 2026, passed through referendum on June 29th 2026.</ref>§2.7. The lawful muting or ban of a person after they have made a request to a competent authority to remove themselves from SimDemocracy.
+
+§3. A person arrested or detained under due process as described in §2 for any reason, including issues affecting public safety and concerning the Terms of Service of the respective platforms, may appeal their arrest or detention to a competent court. If the detention is for the purpose of bringing the person before a court to face trial, they may also request to seek bail in a manner prescribed and regulated by law.
+
+§4. No person shall be detained, imprisoned, muted, or banned merely on the basis of inability to fulfill a contractual obligation.
+
+<ref>Added by the [[Reasonable Amendment]]</ref>
+§5. No person may be subject to cruel or unusual punishment, nor shall they be subject to punishment grossly unproportional to their conduct.
+
+===Article 23: Protection of Citizen’s Debt===
+<ref>[[Right to Reimbursement Act]]</ref>
+§1. The Government shall repay its debts to its citizens.
+
+:§1.1. The government can only void these debts if the citizen fails to meet their obligations to own these debts or leaves SimDem for more than sixty (60) days.
+
+:§1.2. Government bonds must be re-purchased, repaid, or expropriated from the citizens who own them if the government wants to end them.
+
+:§1.3. The government cannot void any agreement with a citizen without providing equivalent appropriate compensation.
+
+=== Article 24: Right to Personal Safety===
+<ref name="pprat">[[Protection and Proliferation of Rights and Tenets Amendment]]</ref> 
+§1. Every person shall have the right to be safe and secure in their physical being.
+
+<ref name="righttochildhood">[[Right to Childhood Amendment]]</ref>
+§2. All minors shall have the right to be shielded from sexually explicit, graphically violent, or otherwise disturbing content.
+
+§3. The state shall be prohibited from placing any duty on a citizen that risks their physical safety.
+
+=== Article 25: Prohibition of slavery and forced labor ===
+§1. No person shall be held in slavery or servitude or be compelled to perform forced or compulsory labour.
+
+§2. Every person shall have the right to resign with immediate effect from any job or role.<ref name="slavery-bad">[https://docs.google.com/document/d/1MqKXBx4tALkNo-Myjc895ZnWyKGA3tAaVvaz1OTP7AA/edit Slavery is… bad, actually Amendment] passed on July 17th, 2026 and voted through referendum on July 20th, 2026</ref>
+
+=== Article 26: Repealed ===
+<ref name="betterseo" />
+
+===Article 27: Right to revolution===
+§1. Every person shall have the right to revolt against a tyrannical government seeking to abolish the democratic and constitutional order, when all other remedies have been exhausted.<ref name="nogods">[https://docs.google.com/document/d/1Z5ioXgpcfti4xdgbv-PeBLIWOQDnDrA0XIhjYwokC3Q/edit?tab=t.0#heading=h.bcj6d1azubav No Gods, No Masters Amendment 2026] ratified 18 January 2026.</ref>
+
+=== Article 28: Implied rights ===
+<ref name="pprat">[[Protection and Proliferation of Rights and Tenets Amendment]]</ref>§1. The enumeration of certain rights in the Bill of Rights shall not be construed to deny or disparage other implied rights possessed by the people.
+
+=== Article 29: Protection of rights===
+<ref name="fine-tos">[https://docs.google.com/document/d/1TBBqKCDLXqtWTHr2m9O5p7IMha4ToktVu1vtD937fIY/edit?tab=t.0#heading=h.68fgu5av903e Fine, We Should Do Something About ToS Stuff. Amendment]</ref>
+§1. The free and lawful exercise of these rights shall never be infringed by the state unless to protect the rights of others, the rights of society as a whole, or to ensure SimDemocracy’s continued existence on any given platform.
+
+:§1.1. Despite §1, persons who are banned from SimDemocracy pursuant to Article 22 shall not be permitted to exercise their rights under Equality Before the Law, Freedom of Speech, and the Right to Toast Dick for the duration of their ban. The Senate may legislate exceptions to this section.
+
+:§1.2. Despite §1, the exercise of rights in this Part may be infringed when any section of the Constitution states that it applies despite this Article, or disapplies this Article.<ref name="randomfix2" />
+
+§2. Any constitutional or lower laws which unlawfully infringe on these rights shall be void and of no effect.
+
+<ref name="ivybad">Added by the [[Ivy Cactus Fucked Up (My Bad) Amendment]]</ref>§3. The enumeration of these rights shall not be construed to deny the state the ability to amend or remove rights via normal amendment process.
+
+§4. Every person shall have the right to petition a competent court for judicial review if their rights have been unlawfully infringed and seek effective judicial remedy.
+
+§5. Alternate Accounts shall be defined as accounts which are owned or operated by a person on any platform on which SimDemocracy is located, which is not the account they are most well known in.
+
+:§5.1. Any account may be declared to be an Alternate Account by a Judge of a Court specified by law on a balance of probabilities. It shall not be necessary for the account they are most well known in to be identified for the purposes of this declaration.
+
+:§5.2. Declared Alternate Accounts shall have the exercise of their rights under this Part restricted in accordance with law, and shall have the right to appeal their declaration to a competent court.<ref name="randomfix2" />
+
+=== Article 30: Right to Toast Dick ===
+§1. Every SimDemocracy citizen shall have the right to use the emoji Toast Dick in the SimDemocracy discord server
+
+== Part 7: The Constitution ==
+=== Article 31: Constitutional amendments ===
+§1. The Constitution may only be amended with a simple majority vote in the Senate, followed by a public referendum which shall have to pass with a two-thirds (⅔) majority vote in favor of the amendment.
+
+== Part 8: State of Caution and Emergency ==
+=== Article 32: Implementation ===
+<ref name="caution">[[State of Caution and Emergency Amendment 2025]]</ref>
+
+§1. Despite Article 29<ref name="random" />, the President may authorize or revoke authorization for the use of the following powers in relation to the Core Territories, if satisfied that there is or is likely to be significant destabilisation on SimDemocracy that requires some management to ensure the stability of the community and the democratic institutions of SimDemocracy:
+:(a) The Confinement of new members in the Core Territories to a specific area for new members;
+:(b) The implementation of an application for new accounts to enter the Core Territories, which shall be managed and operated by the competent authorities as prescribed by law;
+:(c) The temporary removal of permissions on the Core Territories for a period of time not exceeding 48 hours;
+:(d) The lockdown of the Core Territories, preventing new members from joining, for a period of time not exceeding 48 hours.
+:§1.1. In exercising their powers under §1(b), the competent authority may be given the power to accept or reject accounts attempting to join in accordance with standards prescribed by law.
+
+§2. Before authorizing the use of these powers, the Senate must pass a resolution authorizing this use, and a Supreme Court Justice must approve the use.
+:§2.1. If the President is satisfied that the urgency of the destabilisation requires the immediate use of these powers, they may authorize the use of them preemptively, but if the requirements under §2. are not satisfied within 48 hours, the use of these powers must be immediately discontinued.
+:§2.2. The Senate may further restrict or regulate the President’s use of these powers through legislation, including imposing time limits on how long certain powers may be used.
+
+== Part 9: Appendix ==
+§1. The Senate shall be elected using the TEA (Threshold Equal Approval) voting method. Voters will give each candidate an integer score between 0 and 5, with 0 being the lowest and 5 being the highest. Blank scores are also permitted and will be counted as 0s.
+
+:§1.1. Tabulation will proceed as follows.
+
+::§1.1.1. Initialize the threshold to a score of 5. Initialize each ballot's weight to 1. Initialize the quota to the total number of ballots cast divided by the total number of available seats.
+::§1.1.2. Identify all unelected candidates scored at or above the threshold on ballots with a total weight of at least a quota. If there are no such candidates, go to step §1.1.4. Otherwise, for each such candidate and the set of ballots that scored that candidate at or above the threshold, calculate the value n such that the sum of min(w, n) for all ballots in the set is equal to one quota, where w is the weight of each ballot. Elect the candidate with the least value of n, and reduce the weight of each ballot in that candidate's set by min(w, n).
+::§1.1.3. If all seats are filled, tabulation is complete. Otherwise, go to step §1.1.2.
+::§1.1.4. If the threshold is greater than 1, then reduce it by 1 and go to step §1.1.2.
+::§1.1.5. Elect the candidate with the greatest sum of ballot weights across all ballots that give them a positive score. Set the weight of each ballot that gives them a positive score to 0.
+::§1.1.6. If all seats are filled, tabulation is complete. Otherwise, go to step §1.1.5.
+
+:§1.2. Ties at any point in the election calculations shall be broken using the following method, where candidates eliminated at each step do not move on to subsequent steps. Once only one candidate remains, any remaining steps are ignored.
+::§1.2.1. Break the tie in favor of the candidate(s) with the greatest sum of ballot weights across all ballots that give them a score at or above the threshold.<ref name="evenbetter" />
+::§1.2.2. Break the tie in favor of the candidate(s) with the greatest sum of weighted scores.
+::§1.2.3. Break the tie in favor of the candidate(s) with the greatest sum of unweighted scores.
+::§1.2.4. Break the tie pseudorandomly with all tied candidates given an equal probability of winning.
+
+<ref name="countback">[[Proportional Countbacks Amendment]] ratified 20 July 2025.</ref>§2. Vacancies in the Senate shall be filled using a proportional countback variant of the TEA (Threshold Equal Approval) voting method.
+:§2.1. Initialization will proceed as follows, where the Senators referenced in this section are those who were members of the Senate immediately after this vacancy arose, along with any Senators who both were elected during a countback that was performed prior to the initiation of this countback and did not leave the Senate prior to the opening of this vacancy.
+::§2.1.1. Initialize the virtual threshold to a score of 5. Initialize each ballot’s weight to 1. Initialize the quota to match the quota used in the most recent Senate election.
+::§2.1.2. Determine which Senators are scored at or above the virtual threshold on ballots with a total weight of at least a quota. If there are no such Senators, go to step §2.1.4. Otherwise, for each such Senator and the set of ballots that scored that Senator at or above the virtual threshold, calculate the value n such that the sum of min(w, n) for all ballots in the set is equal to one quota, where w is the weight of each ballot. Identify the Senator with the least value of n, and reduce the weight of each ballot in that Senator’s set by min(w, n).
+::§2.1.3. If any Senators have not yet been identified, go to step §2.1.2. Otherwise, go to step §2.1.7.
+::§2.1.4. If the virtual threshold is greater than 1, then reduce it by 1 and go to step §2.1.2.
+::§2.1.5. Identify the Senator with the greatest sum of ballot weights across all ballots that give them a positive score. Set the weight of each ballot that gives them a positive score to 0.
+::§2.1.6. If any Senators have not yet been identified, go to step §2.1.5.
+::§2.1.7. Initialize the threshold to a score of 5.
+:§2.2. After initialization, tabulation will proceed as follows.
+::§2.2.1. Determine which eligible candidates are scored at or above the threshold on ballots with a total weight of at least a quota. If there are no such candidates, go to step §2.2.2. Otherwise, for each such candidate and the set of ballots that scored that candidate at or above the threshold, calculate the value n such that the sum of min(w, n) for all ballots in the set is equal to one quota, where w is the weight of each ballot. Elect the candidate with the least value of n. Tabulation is complete.
+::§2.2.2. If the threshold is greater than 1, then reduce it by 1 and go to step §2.2.1.
+:§2.2.3. Elect the eligible candidate with the greatest sum of ballot weights across all ballots that give them a positive score. Tabulation is complete.
+:§2.3. Ties at any point in the election calculations shall be broken using the process specified in the Appendix §1.2, with all tied Senators treated as the tied candidates if the tie occurs during §2.1.
+
+§3. The number of Senate seats to be filled shall be calculated as min(⌊3.5 + x/10⌋, 40), where x represents the voter turnout for the Senate election in question, ⌊y⌋ is the integer part of y, and min(y,z) is the minimum value between y and z.<ref name="jolly">[https://docs.google.com/document/d/1gOCHuRxnKQX59y9o1XrdxaaCgOYPF_vThTT-3qtO0-E/edit?tab=t.0#heading=h.f6yxeq8vt4r4 Jolly Senate Act 2025] ratified 22 December 2025, and not reverted by referendum on 25 January 2026.</ref>
+
+§4. The President shall be elected using the STAR (Score Then Automatic Runoff) voting method where voters will give each candidate an integer score between 0 and 5, with 0 being the lowest and 5 being the highest. When a voter assigns a blank score for a presidential candidate on their ballot, that shall be equivalent to a score of 0. The candidates with the 2 highest scores enter an automatic runoff phase where the candidate who was rated a higher score between the two candidates the most number of times wins. In the event of a tie, the Official Tiebreaker Protocol recommended by the STAR voting project shall be used.
+
+§5. Unless stated otherwise public referendums shall be open for twenty-four (24) hours.
+
+§6. Public votes shall only go live, once a week, anytime from 12 PM UTC on the Saturday to 2 AM UTC on the Sunday.<ref name="BETTER">[[The Better Election Times To Ensure Ratification (BETTER) Amendment]]</ref>
+
+:§6.1. A “public vote” refers to all kinds of plebiscite within SimDemocracy, including but not limited to, elections, referenda, and appointments needing public confirmation.<ref name="SETA">Amended by the [[Standardized Election Times (SET) Amendment]]</ref>
+
+:§6.2. All the public votes that are supposed to happen shall wait until the next window to go live.<ref name="SETA" />
+
+:§6.3. All requirements for public votes (such as Calls For Candidates), shall have their timings adjusted to allow for the implementation of §7.<ref name="SETA" />
+
+:§6.4. All votes explicitly designed to be of “emergency” status shall be exempt from §6. and its subsections.<ref name="SETA" />
+::§6.4.1. Impeachments needing public confirmation shall be considered of “emergency” status under §6.4.<ref name="SETA" />
+::§6.4.2. By-elections shall be considered of “emergency” status under §6.4<ref name="SETA" />
+::§6.4.3. Confirmation of a new Vice-President shall have emergency status under §6.4.<ref name="cabinet" />
+::§6.4.4. The Senate of SimDemocracy shall be empowered to grant any public vote “emergency” status with a majority vote under §6.4.<ref name="SETA"></ref>
+
+:§6.5. Senatorial and Presidential elections shall be held on alternating weeks.<ref name="evenbetter">[https://docs.google.com/document/d/15q5cUNqEA1TmVo-QUTpsLqkFHIxlkJaiGlZtGqsKLMU/edit?tab=t.0 The Even Better Election Terminology To Ensure Ratification (Even BETTER) Amendment 2026] ratified 5 January 2026.</ref>
+
+<ref name="ActPrez" />§7.  The President’s position shall be filled for the duration of their incapacity via the schedule described below, skipping any person who declines the role, 
+<ref name="lonsafe">[https://docs.google.com/document/d/1_fC6RJkKXKKrm9AERGGRA9wztrIb9epZUwaNJLx7PHw/edit?tab=t.0 LON-SAFE Amendment 2025] passed by the Senate on 3 December 2025 and ratified on 5 December 2025.</ref>or is otherwise incapacitated:
+
+:§7.1. Vice President.
+:§7.2. Speaker of the Senate.
+:§7.3. Executive Officers, ranked by seniority in their present executive office (measured from the date they most recently assumed that specific office; service in any other executive office does not count).
+:§7.4. Senators, in order of placement in the last Senate election.
+:§7.5 Supreme Court Justices, ranked by seniority on the Supreme Court (measured from the date they most recently assumed their seat; prior judicial service in any other court does not count).
+:§7.6. Judges, ranked by seniority in their present judgeship (measured from the date they most recently assumed that judgeship; prior judicial service in a different judgeship does not count).
+:§7.7. Discord Supervisor.
+:§7.8. Reddit Supervisor.
+
+<ref name="ActPrez"></ref>§8. Where two or more persons are otherwise equal in seniority within the same category listed in §8.3–§8.6, their rank for purposes of §8 shall be determined in the following order. At each step below, apply the stated criterion to all persons still tied. Any person with a strictly superior result under that criterion ranks ahead of those with inferior results and is removed from the tied cohort for the remainder of this procedure. All persons who remain exactly tied after applying a criterion proceed together to the next step. Continue until a complete order is obtained or until §9.2.2/§9.3 requires random resolution. The order is as follows:
+
+:§8.1. The person who received the Discord role denoting the present office earlier on the same assumption date ranks higher. 
+
+:§8.2. If still tied, and the office is elected, rank by the greater sum of weighted scores.
+::§8.2.1. If still tied, rank by the greater sum of unweighted scores.
+::§8.2.2. If a tie persists among two persons, resolve by a coin flip conducted by the Discord Supervisor. If a tie persists among three or more persons, resolve by a random drawing of lots conducted by the Discord Supervisor, producing a random ordering of all remaining tied persons, who shall be ranked in the order drawn.
+
+:§8.3. If any tie remains among persons holding unelected offices, resolve as follows: 
+::§8.3.1. If two persons remain, by coin flip conducted by the Discord Supervisor; 
+::§8.3.2. If three or more persons remain, by a random drawing of lots, conducted by the Discord Supervisor.
+
+<ref name="ActPrez" />§9. Once a person is ranked above others at any step, that placement is final and is not reconsidered at later steps of this procedure.
+:§9.1. The ordering produced under Part 9, §8–9 is final only for the specific invocation of §8–9 that necessitated it.
+:§9.2. Upon any subsequent invocation of §8-9, including a new vacancy or incapacity, the entire procedure in §8–9 shall be rerun from the start, using the then-current records and seniority.
+:§9.3. Any random resolution (coin flip or drawing of lots) shall be conducted anew for each invocation; no prior random result binds a later invocation.
+:§9.4. For each invocation, the relevant timestamps, certifications, and logs are those as they exist at the time §8–9 is triggered.
+
+<ref name="ActPrez" />§10. A government official shall be considered incapacitated if they meet one or more of the following conditions:
+
+:§10.1. They have publicly declared their incapacity; 
+
+:§10.2. They have been inactive for a continuous period of 24 hours without prior notice and have not designated a temporary replacement; or
+
+:§10.3. They are banned, suspended, or otherwise removed from the official SimDemocracy platforms in a way that prevents them from fulfilling their duties.
+
+§11. Any citizen, elected or appointed, to an office while serving in a prohibited role must resign from the prohibited office to assume the office they were elected or appointed to. §11.1. For the purposes of this section, “prohibited role” shall be any office listed as incompatible with the position to which a citizen is appointed or elected to.<ref name="randomfix2">[[Random Constitutional Fixes Amendment 2]] passed on the 16 April 26, signed the same day and ratified on the 19th April 26</ref>
+
+§12. The [[Voting (Registration) Act 2026]] and [[Voting (Elections and Ballots) Act 2026]] as they were immediately after the passage of the constitutional amendments with the [https://docs.google.com/document/d/1WnkxC_ClFfBhfu7fseFiaL_E61oTruAsTGFScFzmrAQ/edit?tab=t.0 Voter Registry (Protection of Independence) Act 2026] shall be taken as the Acts mentioned in Article 15§3 and 4.<ref name="vrpoia" />
+
+= Amendments =
+<references />

@@ -1,0 +1,100 @@
+{
+  "records": [
+    {
+      "id": "C03",
+      "title": "Secretary Name National Archives",
+      "room": "Archives",
+      "era": "Archive name checked September 2026",
+      "evidence": "Documented",
+      "source": "https://archive.simdemocracy.org/index.php/",
+      "display": "Named in honor of Secretary Name.\nA community preserves its own history.",
+      "detail": "This VRChat exhibit draws on public community records. It is not the authoritative archive.",
+      "art": "Original procedural geometry and original typesetting",
+      "credit": "Source authors credited at linked records; research supplied by user"
+    },
+    {
+      "id": "C05",
+      "title": "THE DUCK CLERK",
+      "room": "Courtroom",
+      "era": "Historical; repealed by National Pride Act 2025",
+      "evidence": "Historical",
+      "source": "https://qwrky.dev/mediawiki/index.php/Ducks_Constitution",
+      "display": "Historical paperwork, with ducks.\nThe Ducks Constitution linked ducks\nwith clerical offices.",
+      "detail": "The source is marked repealed. This figurine and clerk desk are original interpretations, not recovered historical objects.",
+      "art": "Original procedural geometry and original typesetting",
+      "credit": "Source authors credited at linked records; research supplied by user"
+    },
+    {
+      "id": "C06",
+      "title": "TOUCHING GRASS IS OPTIONAL",
+      "room": "Square",
+      "era": "26 April 2026",
+      "evidence": "Documented in supplied research",
+      "source": "https://archive.simdemocracy.org/index.php/In_re_Touch_Grass_Act_3_2026_SDCR_48",
+      "display": "A 2026 court ruling rejected a requirement\nto touch actual plants. This little garden\nrequires no motion, vote or explanation.",
+      "detail": "This refers to the plant-contact ruling, not the separate constitutional self-exclusion history. This garden has no moderation or self-exclusion function.",
+      "art": "Original procedural geometry and original typesetting",
+      "credit": "Source authors credited at linked records; research supplied by user"
+    },
+    {
+      "id": "C07",
+      "title": "A COMMUNITY REPORTS ON ITSELF",
+      "room": "Cafe",
+      "era": "The SimDemocracy Post: 21 February 2020; FBN: January 2025",
+      "evidence": "Documented",
+      "source": "https://www.reddit.com/r/SimDemocracy/comments/f7b0qv/ | https://www.reddit.com/r/SimDemocracy/comments/1i2fuqn/",
+      "display": "News, interviews and opinion.\nThe SimDemocracy Post / FBN\nExhibit covers recreated for this world.",
+      "detail": "The Post launch described news, interviews and opinion. FBN's first issue discussed economic policy and transparency. These original exhibit covers are not scans or reproductions of the papers.",
+      "art": "Original procedural geometry and original typesetting",
+      "credit": "Source authors credited at linked records; research supplied by user"
+    },
+    {
+      "id": "C08",
+      "title": "TAU AT THE COUNTER",
+      "room": "Cafe",
+      "era": "World interpretation, September 2026",
+      "evidence": "Documented currency; fictional prices",
+      "source": "https://simdemocracy.org/",
+      "display": "Espresso  2 Tau     Tea  1 Tau\nBiscuit  1 Tau\nDecorative prices / drinks are on the house",
+      "detail": "Tau is the community currency. These prices are invented for the world; no balance, charge or wallet is connected.",
+      "art": "Original procedural geometry and original typesetting",
+      "credit": "Source authors credited at linked records; research supplied by user"
+    },
+    {
+      "id": "C21",
+      "title": "RISISTAS CORNER",
+      "room": "Cafe",
+      "era": "Public references: 2020-2026",
+      "evidence": "Documented references; original display",
+      "source": "https://www.reddit.com/r/SimDemocracy/comments/km3v2x/ | https://www.reddit.com/r/SimDemocracy/comments/1j7slut/",
+      "display": "A joke with a public life.\nYears of conversation, party proposals\nand a community highlights board.",
+      "detail": "This original display references the tradition described in the supplied report. It does not reproduce an unverified emoji, private chat excerpts or current targeted jokes.",
+      "art": "Original procedural geometry and original typesetting",
+      "credit": "Source authors credited at linked records; research supplied by user"
+    },
+    {
+      "id": "C22",
+      "title": "SENATE READING ROOM",
+      "room": "Chamber",
+      "era": "Campaign jokes, 2025-2026",
+      "evidence": "Attributed humor; original nook and bill",
+      "source": "https://www.reddit.com/r/SimDemocracy/comments/1odid8b/ | https://www.reddit.com/r/SimDemocracy/comments/1t5k7c0/its_thyme_4_senate/",
+      "display": "Please read before voting.\nYes, the whole bill.",
+      "detail": "Campaigns and the community guide joke about Senate reading habits. The oversized Biscuit Bill is fictional: 1. Bring biscuits. 2. Share biscuits. 3. Debate who ate the last one. It is not actual legislation.",
+      "art": "Original procedural geometry and original typesetting",
+      "credit": "Source authors credited at linked records; research supplied by user"
+    },
+    {
+      "id": "C23",
+      "title": "NEW ARRIVALS / NEW CHAPTERS",
+      "room": "Square",
+      "era": "Danyowave: 2025 onward",
+      "evidence": "Attributed newcomer accounts; original mural",
+      "source": "https://www.reddit.com/r/SimDemocracy/comments/1tirmat/168th_senatorial_election_call_for_candidates/ | https://www.reddit.com/r/SimDemocracy/comments/1v65n7d/introduction/",
+      "display": "Some came through friends. Others through\nvideos about virtual democracy.\nThe Danyowave is one chapter. Make yours.",
+      "detail": "The supplied guide and public participant accounts connect the Danyowave with videos about virtual democracies. The abstract waves and visitor badges are new art, not a historical image or a count of arrivals.",
+      "art": "Original procedural geometry and original typesetting",
+      "credit": "Source authors credited at linked records; research supplied by user"
+    }
+  ]
+}
